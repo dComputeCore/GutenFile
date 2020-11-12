@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+;(global as any).WebSocket = require('isomorphic-ws')
 
 ReactDOM.render(
   <React.StrictMode>
