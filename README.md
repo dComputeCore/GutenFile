@@ -1,6 +1,11 @@
 # GutenFile
-Read Project Gutenberg books from Filecoin
-[List of books](https://gutenfil.on.fleek.co/)
+Explore Project Gutenberg books uploaded to Filecoin, read books in-browser, and convert books to downloadable audiobooks via Golem's decentralized computing network.
+
+# Status
+- (LIVE) [List of books](https://gutenfil.on.fleek.co/) uploaded to Filecoin
+- (WIP) Read books in-browser
+- (WIP) Convert books to downloadable audiobooks via Golem
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
